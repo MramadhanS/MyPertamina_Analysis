@@ -90,6 +90,6 @@ Rekomendasi ini disusun berdasarkan tingkat dampak terhadap isu kritis:
 
 ***
 
-**Dibuat oleh:** [Nama Anda / Tim Anda]
+**Dibuat oleh:** Muhammad Ramaadhan Syaputra
 
 **Dukungan AI:** IBM Granite via IBM watsonx.ai
